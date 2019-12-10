@@ -1,0 +1,148 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 480
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 3
+  object tc: TTabControl
+    Align = Client
+    Size.Width = 480.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    TabHeight = 49.000000000000000000
+    TabIndex = 1
+    TabOrder = 0
+    TabPosition = PlatformDefault
+    Sizes = (
+      480s
+      431s
+      480s
+      431s
+      480s
+      431s)
+    object t_menu: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 160.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = #1052#1077#1085#1102
+      object TB_menu: TToolBar
+        Size.Width = 480.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object name_game: TLabel
+          Align = Contents
+          Size.Width = 480.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.HorzAlign = Center
+          Text = 'PolytechDefender'
+          TabOrder = 0
+        end
+        object b_info: TButton
+          Align = Right
+          Position.X = 432.000000000000000000
+          Size.Width = 48.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+          StyleLookup = 'infotoolbutton'
+          TabOrder = 1
+          Text = 'b_info'
+          OnClick = b_infoClick
+        end
+      end
+      object b_startNewGame: TButton
+        Align = Top
+        Margins.Left = 80.000000000000000000
+        Margins.Top = 20.000000000000000000
+        Margins.Right = 80.000000000000000000
+        Margins.Bottom = 10.000000000000000000
+        Position.X = 80.000000000000000000
+        Position.Y = 68.000000000000000000
+        Size.Width = 320.000000000000000000
+        Size.Height = 44.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        Text = #1053#1086#1074#1072#1103' '#1080#1075#1088#1072
+        OnClick = b_startNewGameClick
+      end
+    end
+    object t_game: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = True
+      Size.Width = 160.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = #1048#1075#1088#1072
+      object TB_game: TToolBar
+        Size.Width = 480.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object b_back: TButton
+          Align = Left
+          Size.Width = 48.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+          StyleLookup = 'arrowlefttoolbutton'
+          TabOrder = 0
+          Text = #1053#1072#1079#1072#1076
+          OnClick = b_backClick
+        end
+      end
+      object Layout1: TLayout
+        Align = Client
+        Size.Width = 480.000000000000000000
+        Size.Height = 383.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Gpan: TGridPanelLayout
+          Align = Center
+          TabOrder = 0
+          ColumnCollection = <
+            item
+              Value = 50.000000000000000000
+            end
+            item
+              Value = 50.000000000000000000
+            end>
+          ControlCollection = <>
+          RowCollection = <
+            item
+              Value = 50.000000000000000000
+            end
+            item
+              Value = 50.000000000000000000
+            end>
+        end
+      end
+    end
+    object t_result: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 160.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = #1056#1077#1079#1091#1083#1100#1090#1072#1090
+    end
+  end
+end
