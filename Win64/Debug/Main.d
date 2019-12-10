@@ -1,5 +1,4 @@
-.\Win64\Debug\Main.o: \
-  C:\Users\Илья\Desktop\PolytechDefender\polytechDefenderPCH1.h \
+.\Win64\Debug\Main.o: D:\polytechDefender\polytechDefenderPCH1.h \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\fmx\fmx.h \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\rtl\System.hpp \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\rtl\sysmac.h \
@@ -329,5 +328,5 @@
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\fmx\FMX.Memo.hpp \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\fmx\FMX.Memo.Types.hpp \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\fmx\FMX.TreeView.hpp \
-  Main.cpp C:\Users\Илья\Desktop\PolytechDefender/Main.h \
+  Main.cpp D:\polytechDefender/Main.h \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\fmx\FMX.TabControl.hpp

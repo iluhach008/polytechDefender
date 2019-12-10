@@ -1,5 +1,5 @@
 .\Win64\Debug\polytechDefender.o: \
-  C:\Users\Илья\Desktop\PolytechDefender\polytechDefenderPCH1.h \
+  D:\polytechDefender\polytechDefenderPCH1.h \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\fmx\fmx.h \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\rtl\System.hpp \
   c:\program\ files\ (x86)\embarcadero\studio\20.0\include\windows\rtl\sysmac.h \

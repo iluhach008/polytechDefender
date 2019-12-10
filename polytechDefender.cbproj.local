@@ -1,17 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019.12.10 15:36:30.272,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2019.12.10 15:36:31.146,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2019.12.10 15:36:48.160,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefenderPCH1.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2019.12.10 15:36:48.175,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefender.cbproj=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>2019.12.10 15:37:16.751,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.fmx=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2019.12.10 15:37:16.751,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2019.12.10 15:37:16.751,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2019.12.10 15:40:03.315,C:\Users\Илья\Desktop\PolytechDefender\Main.fmx=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.fmx</Transaction>
-    <Transaction>2019.12.10 15:40:03.315,C:\Users\Илья\Desktop\PolytechDefender\Main.cpp=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
-    <Transaction>2019.12.10 15:40:03.315,C:\Users\Илья\Desktop\PolytechDefender\Main.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.h</Transaction>
-    <Transaction>2019.12.10 15:40:04.696,C:\Users\Илья\Desktop\PolytechDefender\polytechDefenderPCH1.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefenderPCH1.h</Transaction>
-    <Transaction>2019.12.10 15:40:06.034,C:\Users\Илья\Desktop\PolytechDefender\polytechDefender.cbproj=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefender.cbproj</Transaction>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.272,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefenderPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.146,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefenderPCH1.h=C:\Users\Илья\Desktop\PolytechDefender\polytechDefenderPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\Илья\Desktop\PolytechDefender\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.h=C:\Users\Илья\Desktop\PolytechDefender\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.fmx=C:\Users\Илья\Desktop\PolytechDefender\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefender.cbproj=C:\Users\Илья\Desktop\PolytechDefender\polytechDefender.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\polytechDefender.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2019.12.10 18:53:15.210,=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 18:53:38.365,D:\polytechDefender\Tower.h=D:\polytechDefender\Unit1.h</Transaction>
+    <Transaction>2019.12.10 18:53:38.365,D:\polytechDefender\Tower.cpp=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:00:52.290,=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:01:00.318,D:\polytechDefender\basictower.cpp=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:01:00.318,D:\polytechDefender\basictower.h=D:\polytechDefender\Unit1.h</Transaction>
+    <Transaction>2019.12.10 19:15:55.436,=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:16:05.675,D:\polytechDefender\snipertower.cpp=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:16:05.675,D:\polytechDefender\snipertower.h=D:\polytechDefender\Unit1.h</Transaction>
+    <Transaction>2019.12.10 19:18:40.821,=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:18:46.773,D:\polytechDefender\gam.cpp=D:\polytechDefender\Unit1.cpp</Transaction>
+    <Transaction>2019.12.10 19:18:46.773,D:\polytechDefender\gam.h=D:\polytechDefender\Unit1.h</Transaction>
+    <Transaction>2019.12.10 19:18:49.428,D:\polytechDefender\game.h=D:\polytechDefender\gam.h</Transaction>
+    <Transaction>2019.12.10 19:18:49.428,D:\polytechDefender\game.cpp=D:\polytechDefender\gam.cpp</Transaction>
   </Transactions>
 </BorlandProject>
